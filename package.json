@@ -1,0 +1,27 @@
+{
+  "name": "shitob.tj-bot",
+  "description": "Telegram bot for shitob.tj",
+  "version": "0.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bin-umar/shitob.tj-bot.git"
+  },
+  "keywords": [
+    "bot",
+    "telegram-bot"
+  ],
+  "author": "Jahongir Tulforov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bin-umar/shitob.tj-bot/issues"
+  },
+  "homepage": "https://github.com/bin-umar/shitob.tj-bot#readme",
+  "dependencies": {
+    "telegraf": "^4.3.0"
+  }
+}
